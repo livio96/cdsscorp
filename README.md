@@ -1,5 +1,5 @@
 <h3>CDSS Corporation - A static website for a small business.</h3>
-<h3>DEMO LINK: https://cdsscorp.000webhostapp.com/ </h3>
+<h3>LINK: http://cdsscorporation.com/index.html </h3>
 
 
 
